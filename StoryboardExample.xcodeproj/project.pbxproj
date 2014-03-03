@@ -288,7 +288,7 @@
 				ORGANIZATIONNAME = "M Cubed Software Ltd";
 				TargetAttributes = {
 					99D05BD118055E3100715F09 = {
-						TestTargetID = 99D05BAD18055E3100715F09;
+						TestTargetID = 99D05BAD18055E3100715F09 /* StoryboardExample */;
 					};
 				};
 			};
